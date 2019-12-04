@@ -9,6 +9,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en</language>
+    <license>GPL-3.0-only</license>
     <source>https://github.com/XBMC-Addons/plugin.video.vimcasts</source>
     <news>
       Version 1.2.0
