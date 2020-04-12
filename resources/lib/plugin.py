@@ -9,20 +9,13 @@
 '''
 import re
 import sys
-try:
-    import json
-except ImportError:
-    import simplejson as json
+import json
+
 from xbmcswift2 import Plugin
 
-PY3 = sys.version_info.major >= 3
+from html.parser import HTMLParser
+from urllib.request import urlopen
 
-if PY3:
-    from html.parser import HTMLParser
-    from urllib.request import urlopen
-else:
-    from HTMLParser import HTMLParser
-    from urllib2 import urlopen
 
 PLUGIN_NAME = 'VimCasts'
 PLUGIN_ID = 'plugin.video.vimcasts'

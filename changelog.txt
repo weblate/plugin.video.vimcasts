@@ -1,3 +1,11 @@
+Version 1.3.0+matrix.1
+-----------
+* Dropped python 2
+* Addon.xml updates for matrix
+* Language updates for matrix
+* Automated submissions for matrix
+
+
 Version 1.2.0
 -----------
 * Update to python3
