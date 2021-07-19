@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Watch screencasts about Vim, the text editor, from http://vimcasts.org"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Vimcasts publishes free screencasts about Vim, the text editor. Vim has been around in one form or another for over 20 years. The learning curve is famously difficult, but those who manage to climb it insist that nothing can match Vim's modal editing model for speed and efficiency.[CR][CR]The patterns of use that make a Vim master productive are not easily discovered. Trial and error will get you so far, but the best way to learn is to watch an experienced Vim user at work. By providing short videos with digestible advice, Vimcasts gives you something you can take away and use immediately to improve your productivity. Vimcasts aims to be the expert Vim colleague you never had.[CR][CR]Vimcasts is produced by Drew Neil (aka nelstrom), who came to Vim from TextMate. He made the switch when starting work at a company that uses Linux workstations. His choice of text editor was influenced by colleagues."
+msgstr ""
+
 msgctxt "#30000"
 msgid "VimCasts"
 msgstr ""
